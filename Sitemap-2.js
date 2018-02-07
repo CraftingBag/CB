@@ -26,5 +26,5 @@ function startpost(json){
 }
 
 function finished(){
-  document.write('<br /><br /><a href="https://crabag.blogspot.com/2018/01/cara-membuat-sitemap-otomatis-diblogger.html" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Cara Ke-3 Buat Daftar Isi Dengan Label Tertentu di Blogspot">Sitemap</a>');
+  document.write('<br /><br /><a href="https://crabag.blogspot.com/2018/01/cara-membuat-sitemap-otomatis-diblogger.html" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Cara Buat Daftar Isi otomatis di Blogspot">Sitemap</a>');
 }
