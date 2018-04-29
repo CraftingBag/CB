@@ -26,5 +26,5 @@ function startpost(json){
 }
 
 function finished(){
-  document.write('<br /><br /><a href="https://crabag.blogspot.com/2018/01/cara-membuat-sitemap-otomatis-diblogger.html" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Cara Buat Daftar Isi otomatis di Blogspot">Sitemap</a>');
+  document.write('<br /><br /><a href="http://www.craftingbag.ga/2018/02/cara-mudah-membuat-disclaimer-untuk-blog.html" style="font-size: 10 px; text-decoration:none; color: #616469;" target="_blank" title="Cara Buat Daftar Isi otomatis di Blogspot">Sitemap</a>');
 }
