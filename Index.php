@@ -16,7 +16,7 @@ if(isset($_POST['submit'])){
             $msgClassk = 'errordiv';
         }else{
             // Pengaturan penerima email dan subjek email
-            $toEmail = 'email@namadomain.com'; // Ganti dengan alamat email yang Anda inginkan
+            $toEmail = 'craftingbag@gmail.com'; // Ganti dengan alamat email yang Anda inginkan
             $emailSubject = 'Pesan website dari '.$name;
             $htmlContent = '<h2> via Form Kontak Website</h2>
                 <h4>Name</h4><p>'.$name.'</p>
@@ -111,7 +111,7 @@ p.errordiv{color:#E80000;}
 </head>
 <body>
 <div class="mainContent">
-    <h2>Kontak Form PHP / <small><a href="http://www.jurnalweb.com">Jurnalweb.com</a></small></h2>
+    <h2>Hubungi Kami</h2>
     <div class="contactFrm">
         <?php if(!empty($statusMsg)){ ?>
             <p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>
