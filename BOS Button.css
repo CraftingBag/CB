@@ -1,0 +1,13 @@
+.button {float:left; list-style:none; text-align:center; width:100%; margin:5px 0; padding:0; font-size:14px; clear:both;}
+
+/* Mediafire */
+.Mediafire {border:none; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; padding:8px 30px !important; background:#5FAAE3; color:#fff !important; text-align:center; text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -webkit-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -moz-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -ms-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); transition:background-color 1s ease-out 0s; -moz-transition:background-color 1s ease-out 0s; -webkit-transition:background-color 1s ease-out 0s; -o-transition:background-color 1s ease-out 0s; letter-spacing:1px;}
+.Mediafire:hover {background:#000; text-shadow:0 0 1px #222; -moz-text-shadow:0 0 1px #222; -webkit-text-shadow:0 0 1px #222; -ms-text-shadow:0 0 1px #222;}
+
+/* Drive */
+.Drive {border:none; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; padding:8px 30px !important; background:#f5ff3a; color:#fff !important; text-align:center; text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -webkit-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -moz-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -ms-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); transition:background-color 1s ease-out 0s; -moz-transition:background-color 1s ease-out 0s; -webkit-transition:background-color 1s ease-out 0s; -o-transition:background-color 1s ease-out 0s; letter-spacing:1px;}
+.Drive:hover {background:#000; text-shadow:0 0 1px #222; -moz-text-shadow:0 0 1px #222; -webkit-text-shadow:0 0 1px #222; -ms-text-shadow:0 0 1px #222;}
+
+/* CB */
+.CB {border:none; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; padding:8px 30px !important; background:#4eff3a; color:#fff !important; text-align:center; text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -webkit-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -moz-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); -ms-text-shadow:0 0 1px rgba(0, 0, 0, 0.3); transition:background-color 1s ease-out 0s; -moz-transition:background-color 1s ease-out 0s; -webkit-transition:background-color 1s ease-out 0s; -o-transition:background-color 1s ease-out 0s; letter-spacing:1px;}
+.CB:hover {background:#000; text-shadow:0 0 1px #222; -moz-text-shadow:0 0 1px #222; -webkit-text-shadow:0 0 1px #222; -ms-text-shadow:0 0 1px #222;}
